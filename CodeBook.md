@@ -82,32 +82,36 @@ Code Book
 ======================================
 For each activity and each subject, the mean value was computed for each of the following 66 variables. For an explanation of each of the variables, refer to the section above "Features of the original data set".
 
-1. tBodyAcc.mean...X
-2. tBodyAcc.mean...Y
-3. tBodyAcc.mean...Z
-4. tBodyAcc.std...X
+The data set has 68 variables in total. The 
+
+1. subject
+2. activity
+3. tBodyAcc.mean...X
+4. tBodyAcc.mean...Y
+5. tBodyAcc.mean...Z
+6. tBodyAcc.std...X
 5. tBodyAcc.std...Y
 6. tBodyAcc.std...Z
-tGravityAcc.mean...X
-tGravityAcc.mean...Y
-tGravityAcc.mean...Z
-tGravityAcc.std...X
-tGravityAcc.std...Y
-tGravityAcc.std...Z
-tBodyAccJerk.mean...X
-tBodyAccJerk.mean...Y
-tBodyAccJerk.mean...Z
-tBodyAccJerk.std...X
-tBodyAccJerk.std...Y
-tBodyAccJerk.std...Z
-tBodyGyro.mean...X
-tBodyGyro.mean...Y
-tBodyGyro.mean...Z
-tBodyGyro.std...X
-tBodyGyro.std...Y
-tBodyGyro.std...Z
-tBodyGyroJerk.mean...X
-tBodyGyroJerk.mean...Y
+7. tGravityAcc.mean...X
+8. tGravityAcc.mean...Y
+9. tGravityAcc.mean...Z
+10. tGravityAcc.std...X
+11. tGravityAcc.std...Y
+12. tGravityAcc.std...Z
+13. tBodyAccJerk.mean...X
+14. tBodyAccJerk.mean...Y
+15. tBodyAccJerk.mean...Z
+16. tBodyAccJerk.std...X
+17. tBodyAccJerk.std...Y
+18. tBodyAccJerk.std...Z
+19. tBodyGyro.mean...X
+20. tBodyGyro.mean...Y
+21. tBodyGyro.mean...Z
+22. tBodyGyro.std...X
+23. tBodyGyro.std...Y
+24. tBodyGyro.std...Z
+25. tBodyGyroJerk.mean...X
+26. tBodyGyroJerk.mean...Y
 tBodyGyroJerk.mean...Z
 tBodyGyroJerk.std...X
 tBodyGyroJerk.std...Y
