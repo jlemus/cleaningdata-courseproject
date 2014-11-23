@@ -82,10 +82,20 @@ Code Book
 ======================================
 For each activity and each subject, the mean value was computed for each of the following 66 variables. For an explanation of each of the variables, refer to the section above "Features of the original data set".
 
-The data set has 68 variables in total. The 
+The data set has 68 variables in total. The first two are the id variables.
 
 1. subject
+    integer from 1 to 30. Each number indicates a different subject.
+
 2. activity
+    factor with the following values:
+      WALKING
+      WALKING_UPSTAIRS
+      WALKING_DOWNSTAIRS
+      SITTING
+      STANDING
+      LAYING
+
 3. tBodyAcc.mean...X
 4. tBodyAcc.mean...Y
 5. tBodyAcc.mean...Z
